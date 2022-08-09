@@ -12,6 +12,10 @@ form {
   margin-top: 0.5em;
 }
 
+.pink {
+  color: rgb(255, 129, 150);
+}
+
 button {
   margin-top: 2em;
 }
