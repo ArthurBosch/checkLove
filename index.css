@@ -1,0 +1,35 @@
+.container {
+  margin-top: 5em;
+}
+
+button {
+  margin-top: 2em;
+}
+
+label {
+  margin-top: 2em;
+}
+
+.button-center {
+  display: flex;
+  justify-content: center;
+}
+
+.result-container {
+  margin-top: 5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.good {
+  color: green;
+}
+
+.notgood {
+  color: gray;
+}
+
+.bad {
+  color: red;
+}
